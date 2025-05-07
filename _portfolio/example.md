@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: 건강하기
+  subtitle: s안다치기
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
